@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube-clone-tailwind-project/static/css/main.6350d810.css",
+    "main.js": "/youtube-clone-tailwind-project/static/js/main.2e48be2d.js",
+    "index.html": "/youtube-clone-tailwind-project/index.html",
+    "main.6350d810.css.map": "/youtube-clone-tailwind-project/static/css/main.6350d810.css.map",
+    "main.2e48be2d.js.map": "/youtube-clone-tailwind-project/static/js/main.2e48be2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6350d810.css",
+    "static/js/main.2e48be2d.js"
+  ]
+}
