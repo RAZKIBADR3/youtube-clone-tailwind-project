@@ -1,0 +1,15 @@
+export const topics = [
+    { id:0, title:'Music' },
+    { id:1, title:'Mixes' },
+    { id:2, title:'CSS' },
+    { id:3, title:'Javascript' },
+    { id:4, title:'PHP' },
+    { id:5, title:'Live' },
+    { id:6, title:'Gaming' },
+    { id:7, title:'Alternative Rock' },
+    { id:8, title:'Hard Rock' },
+    { id:9, title:'Nu-Metal' },
+    { id:10, title:'Lo-fi' },
+    { id:11, title:'Computers' },
+    { id:11, title:'Sport' },
+]

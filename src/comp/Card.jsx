@@ -1,10 +1,11 @@
 import React from "react";
+import { PUBLIC_URL } from "../App";
 
 const Card = ({e}) => {
     return(
         <div className="my-4 w-[410px] min-h-[35vh] border-gray-600 rounded-tr-[5%] rounded-tl-[5%]">
             <div className="thumb relative w-[410px]">
-                <img src={e.thumb} alt="thumbnail" className="w-[410px] rounded-[5%]"/>
+                <img src={PUBLIC_URL + e.thumb} alt="thumbnail" className="w-[410px] rounded-[5%]"/>
                 <span className="bg-black font-semibold absolute right-[5px] bottom-[5px] text-white text-[13px] rounded-sm px-[5px]">{e.time}</span>
             </div>
             <div className="flex justify-around min-h-20">
